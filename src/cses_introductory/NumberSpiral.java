@@ -1,4 +1,4 @@
-//package cses;
+package cses_introductory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
